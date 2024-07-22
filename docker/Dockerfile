@@ -1,8 +1,8 @@
 FROM debian:latest
 MAINTAINER Jordi Gimenez <info@mobilejazz.com>
 
-ENV REFRESHED_AT 2019-05-31
-ENV SWAN_VER 4.9
+ENV REFRESHED_AT 2024-07-22
+ENV SWAN_VER 4.15
 
 WORKDIR /opt/src
 
